@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3743b3d8-8f1e-4d3d-9488-d21ab782b9ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java_Data_Structres_and_Algorithm.iml" afterDir="false" />
+    <list default="true" id="3743b3d8-8f1e-4d3d-9488-d21ab782b9ed" name="Changes" comment="First Upload">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMapCode/HashMapImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMapCode/HashMapImplementation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
       <recent name="C:\Users\rutik\IdeaProjects\Java_Data_Structres_and_Algorithm\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinaryTrees">
+  <component name="RunManager" selected="Application.HashMapImplementation">
     <configuration name="BinaryTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BinaryTrees" />
       <module name="Java_Data_Structres_and_Algorithm" />
@@ -60,12 +56,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollectionAndFrameWork.TreeSetIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionAndFrameWork.TreeSetIntro" />
+    <configuration name="HashMapImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMapCode.HashMapImplementation" />
       <module name="Java_Data_Structres_and_Algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionAndFrameWork.*" />
+          <option name="PATTERN" value="HashMapCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapImplementation" />
         <item itemvalue="Application.BinaryTrees" />
         <item itemvalue="Application.NavigableMapIntro" />
         <item itemvalue="Application.MapIntro" />
         <item itemvalue="Application.nvaigableSetIntro" />
-        <item itemvalue="Application.CollectionAndFrameWork.TreeSetIntro" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +127,21 @@
       <option name="presentableId" value="Default" />
       <updated>1675237506550</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Upload">
+      <created>1681020211280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681020211280</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First Upload">
+      <created>1681020325995</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681020325995</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +154,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Upload" />
+    <MESSAGE value="HashMap Implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="HashMap Implementation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
